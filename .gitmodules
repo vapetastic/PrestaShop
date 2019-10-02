@@ -1,0 +1,3 @@
+[submodule "themes/vapetastic"]
+	path = themes/vapetastic
+	url = https://git-codecommit.eu-west-2.amazonaws.com/v1/repos/Vapetastic-Prestashop-Template
